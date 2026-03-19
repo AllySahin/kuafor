@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.rizzkuafor.com/sitemap.xml
+
+# Crawl-delay (isteğe bağlı, agresif botlar için)
+Crawl-delay: 1
